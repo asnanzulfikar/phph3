@@ -4,7 +4,7 @@ class Login extends BaseController
 {
 	public function index()
 	{
-		return 'ini adalah halaman login';
+		return 'ini adalah halaman login coy';
 	}
 
 	//--------------------------------------------------------------------
